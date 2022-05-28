@@ -5,6 +5,10 @@
  
  To limit PHP warnings and issues a version from 7.14 and higher is recommended
  
+ ### About the project
+ 
+ I've always been fascinated with building or creating things from scatch. I'm also intrigued about the science behind communication applications, as well as server-client communications. It has led me to the creation of Chatter, a communications platform built with a server-side middle-man and MySQL as a storage service. 
+ 
 ### Tech Stack
 - [ ] PHP => 7.4.29
 - [ ] ReactJs => 18.1.0
