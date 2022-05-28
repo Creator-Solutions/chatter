@@ -17,4 +17,3 @@ The web-application uses server-side authentication by providing the user with a
 - [ ] ReactJs => 18.1.0
 - [ ] Node => 16.14.0
 - [ ] CSS
-
