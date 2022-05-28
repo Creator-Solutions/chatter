@@ -1,2 +1,2 @@
 
-# Chatter ![Drone (self-hosted) with branch](https://img.shields.io/drone/build/creator-solutions/chatter/master)
+# Chatter <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Creator-Solutions/chatter?style=flat-square">
