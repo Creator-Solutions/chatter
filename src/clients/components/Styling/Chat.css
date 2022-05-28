@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    height: 100%;
+}
+
+body{
+    height: 100%;
+}
+
+.chatbox{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.chatbox .sideBar{
+    width: 15%;
+    height: 100%;
+    border-right: 1px solid #C0C0C0;
+    position: fixed;    
+}
+
+.chatbox .sideBar .userCard{
+    width: 85%;
+    height: 45px;
+    display: flex;
+    flex-direction: row;
+    align-items : center;   
+    box-shadow: 
+    rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, 
+    rgba(0, 0, 0, 0.05) 0px 4px 6px -2px; 
+    margin: 35px auto;
+}
+
+.chatbox .sideBar .userCard img{
+    width: 35px;
+    height: 35px;
+}
+
+.chatbox .sideBar .userCard p {
+    margin-left: 25px;
+}
+
+
+.chatbox .middle{
+    width: 100%;
+    margin-left: 15%;
+    display: flex;
+    flex-direction: column;
+}
+
+.chatbox .middle .topBox{  
+    width: 100%;
+    height: 75px;
+    background-color: #0073cf;
+    display: flex;
+    flex-direction: row;
+}
+
+.chatbox .middle .topBox h1{
+    align-self: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: #fff;
+}
+
+.chatbox .middle .topBox img{
+    width: 50px;
+    height: 50px;
+    align-self: center;
+    margin-left: 15px;
+}
+
+.chatbox .middle .topBox img:hover{
+    cursor: pointer;
+}
+
+.chatbox .middle .input{  
+    width: 100%;
+    height: 75px;
+    border-top: 1px solid #C0C0C0;
+    position: fixed;
+    bottom: 15px;
+}
+
+.chatbox .middle .input input[type=text]{
+    width: 75%;
+    height: 100%;
+    padding: 8px 8px;
+    font-size: 18px;
+}
+
+.chatbox .middle .input button{
+    width: 10%;
+    height: 100%;
+    font-size: 18px;
+    background-color: #32cd32;
+    color: #fff;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+
+
+.chatbox .middle .msgBox{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    position: fixed;
+    flex-direction: column;
+    background-color: #F5F5F5FD;
+}
+
+.error{
+    width: 50%;
+    height: 15px;
+    position:absolute;
+    bottom: 125px;
+    font-size: 18px;
+    color: #404040;
+    align-self: center;
+    text-align: center;
+}   
+
+.chatbox .middle .msgBox .msgContainer{
+    width: 50%;
+    height: 100px;
+    margin: 25px;
+    overflow-x: auto;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+.chatbox .middle .msgBox .msgContainer .userData{
+    width: 50%;
+    height: 45px;
+    display: flex;
+    flex-direction: row;
+}
+
+.chatbox .middle .msgBox .msgContainer .userData img{
+    width: 25px;
+    height: 25px;
+    align-self: center;
+    margin-left: 5px;
+} 
+
+.chatbox .middle .msgBox .msgContainer .userData .name {
+    align-self: center;
+    margin-left: 5px;
+    font-size: 18px;
+}
+
+.chatbox .middle .msgBox .msgContainer .userData .timestamp {
+    align-self: center;
+    margin-left: 5px;
+    font-size: 15px;
+}
+
+.chatbox .middle .msgBox .msgContainer .message .message_content {
+    align-self: center;
+    margin: 10px 0px 0px 10px;
+    font-size: 16px;
+}

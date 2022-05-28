@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    width: 100%;
+    height: 100%;
+}
+
+.main .form{
+    width: 35%;
+    height: 50%;
+    margin: 10px auto;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.main h1{
+    text-align: center;
+    margin-top: 35px 
+}
+
+.main .form input[type=email], input[type=password]{
+    width: 75%;
+    height: 35px;
+    align-self: center;
+    margin-top: 25px;
+    padding: 8px 8px;
+    outline: none;
+    border: 1px solid #C0C0C0;
+    font-size: 16px;
+}
+
+.main .form input[type=button]{
+    width: 25%;
+    height: 35px;
+    align-self: center;
+    margin-top: 25px;
+    background-color: #4169e1;
+    color : #fff;
+    outline:none;
+    border: none;
+    cursor:pointer;
+    font-size: 18px;
+}
+
+.main .form .links{
+    width: 100%;
+    height: 35px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 15px;
+}
+
+.main .form .links a {
+    font-size: 18px;
+}
+
+.main .box{
+    width: 25%;
+    height: 55px;
+    margin: 55px auto;
+    text-align: center;        
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+}
+
+.main .box p{
+    font-size: 16px;
+    color: #800000;
+    opacity: 100%;
+   align-self: center;
+}
