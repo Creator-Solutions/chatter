@@ -3,6 +3,7 @@
 
  Official repository for Chatter Application written in ReactJS and PHP
  
+ To limit PHP warnings and issues a version from 7.14 and higher is recommended
  
 ### Tech Stack
 - [ ] PHP => 7.4.29
