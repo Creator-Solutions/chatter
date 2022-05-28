@@ -1,2 +1,2 @@
 
-# Chatter ![AppVeyor](https://img.shields.io/appveyor/build/creator-solutions/chatter)
+# Chatter ![Drone (self-hosted) with branch](https://img.shields.io/drone/build/creator-solutions/chatter/master)
