@@ -5,6 +5,8 @@
  
  To limit PHP warnings and issues a version from 7.14 and higher is recommended
  
+ > For issues please open an issue with a detailed description
+ 
  # About the project
  
 I've always been fascinated with building or creating things from scatch. I'm also intrigued about the science behind communication applications, as well as server
@@ -54,5 +56,5 @@ The web-application uses server-side authentication by providing the user with a
 4. Press Go
 5. READY TO ROCK AND ROLL
 
-> For issues please open an issue with a detailed description
+
  
