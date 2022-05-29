@@ -1,5 +1,5 @@
 
-# Chatter ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/creator-solutions/chatter) ![GitHub all releases](https://img.shields.io/github/downloads/creator-solutions/chatter/total) ![GitHub](https://img.shields.io/github/license/creator-solutions/chatter) **![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/creator-solutions/chatter)**
+# Chatter ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/creator-solutions/chatter) ![GitHub all releases](https://img.shields.io/github/downloads/creator-solutions/chatter/total) ![GitHub](https://img.shields.io/github/license/creator-solutions/chatter) **![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/creator-solutions/chatter)** ![GitHub issues](https://img.shields.io/github/issues/creator-solutions/chatter)
 
  Official repository for Chatter Application written in ReactJS and PHP
  
@@ -46,6 +46,13 @@ The web-application uses server-side authentication by providing the user with a
 
 ![yarn](https://user-images.githubusercontent.com/54483520/170872719-d35751d6-7031-4b21-bfd7-ecf1aa80555c.png)
 
+- [x] Setting Up MySQL DB
 
+1. Open PHPMyAdmin
+2. Select the Import option
+3. Select the .sql file from the directory 
+4. Press Go
+5. READY TO ROCK AND ROLL
 
+> For issues please open an issue with a detailed description
  
