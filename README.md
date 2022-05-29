@@ -37,6 +37,7 @@ The web-application uses server-side authentication by providing the user with a
 ![image](https://user-images.githubusercontent.com/54483520/170872168-f0e032c4-724b-47d2-9e43-f8ed1b3bba81.png)
 
 3. Open App.js folder and add the following Code.
+
 ![app](https://user-images.githubusercontent.com/54483520/170872334-23403d56-7928-4e45-aa77-0bc2c3bcf9b3.png)
 
 4. To start the ReactJS App run the following command `yarn start`
