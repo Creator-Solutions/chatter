@@ -33,6 +33,10 @@ The web-application uses server-side authentication by providing the user with a
 - [x] Setting Up ReactJS
 
 1. Navigate to the src/client Folder and run the following command `npm create-react-app chatter`
-2. Once done, drag the components folder into the source folder of the chatter directory
-
+2. Once done, drag the components folder into the source folder of the chatter directory, like the image below
 ![image](https://user-images.githubusercontent.com/54483520/170872168-f0e032c4-724b-47d2-9e43-f8ed1b3bba81.png)
+
+3. Open App.js folder and add the following Code.
+![app](https://user-images.githubusercontent.com/54483520/170872285-4cf01b19-e691-4fbb-9ca4-9c34fef25b4e.png)
+
+ 
