@@ -1,5 +1,5 @@
 
-# Chatter ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/creator-solutions/chatter) ![GitHub all releases](https://img.shields.io/github/downloads/creator-solutions/chatter/total)
+# Chatter ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/creator-solutions/chatter) ![GitHub all releases](https://img.shields.io/github/downloads/creator-solutions/chatter/total) ![GitHub](https://img.shields.io/github/license/creator-solutions/chatter) **![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/creator-solutions/chatter)**
 
  Official repository for Chatter Application written in ReactJS and PHP
  
