@@ -21,7 +21,7 @@ The web-application uses server-side authentication by providing the user with a
 
 # Running the application
 
-- [ ] Setting up XAMPP
+- [x] Setting up XAMPP
 
 1. Download XAMPP installer from `https://www.apachefriends.org/index.html`.
 2. Open the installer and install XAMPP to `C:/` drive or any other drive you have.
@@ -30,7 +30,7 @@ The web-application uses server-side authentication by providing the user with a
 5. Open the `XAMPP Control Panel and start` `Apache` and `MySQL`
 6. Press `Admin` on both services.
 
-- [ ] Setting Up ReactJS
+- [x] Setting Up ReactJS
 
 1. Navigate to the src/client Folder and run the following command `npm create-react-app chatter`
 2. Once done, drag the components folder into the source folder of the chatter directory
