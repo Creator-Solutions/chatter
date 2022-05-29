@@ -42,7 +42,7 @@ The web-application uses server-side authentication by providing the user with a
 
 4.While in the client folder add the following packages `yarn add react-router-dom`.
 
-5. To start the ReactApp type `yarn start`
+5.To start the ReactApp type `yarn start`
 
 ![yarn](https://user-images.githubusercontent.com/54483520/170872719-d35751d6-7031-4b21-bfd7-ecf1aa80555c.png)
 
